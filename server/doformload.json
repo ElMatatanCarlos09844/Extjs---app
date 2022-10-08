@@ -1,0 +1,12 @@
+{
+    "success": true,
+    "data": {
+        "txt_nombre": "Carlos",
+        "txt_correo": "carl.langas.10@gmail.com",
+        "home_score": "Cisneritos",
+        "txt_edad": "23",
+        "txt_fechanacimiento": "07/25/1999",
+        "txt_genero": "1",
+        "txt_idioma": ["1", "3"]
+    }
+}

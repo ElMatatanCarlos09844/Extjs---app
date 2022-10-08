@@ -1,0 +1,10 @@
+{
+    "user_k": "1",
+    "email" : "user@example.com",
+    "user": "admin",
+    "role_k": "1",
+    "name" : "Carlos",
+    "lastname": "Cisneros",
+    "fullname": "Carlos Manuel Cisneros Oropeza",
+    "success": true
+}
